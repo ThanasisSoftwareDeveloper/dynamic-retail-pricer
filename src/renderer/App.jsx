@@ -118,7 +118,7 @@ export default function App () {
 
       {/* ── Status bar ────────────────────────────────────────────────────── */}
       <footer className="border-t border-slate-800 px-6 py-1.5 flex items-center gap-4 text-xs text-slate-600">
-        <span>PriceCalc © 2024</span>
+        <span>Thanasis-codes © 2026</span>
         {result?.scrapeResult?.fromCache && (
           <span className="text-amber-600">● Αποτελέσματα από cache (≤60 λεπτά)</span>
         )}
