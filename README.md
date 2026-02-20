@@ -47,8 +47,6 @@ npm run build:win
 
 The installer will be created in the `dist-electron/` folder.
 <img width="1063" height="1121" alt="thanasis-codes" src="https://github.com/user-attachments/assets/dc667004-9c94-474f-a83e-956ab3f00097" />
-<img width="1063" height="1121" alt="thanasis-codes" src="https://github.com/user-attachments/assets/dc667004-9c94-474f-a83e-956ab3f00097" />
-
 
 ---
 
