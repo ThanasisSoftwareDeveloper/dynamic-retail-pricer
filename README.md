@@ -46,6 +46,7 @@ npm run build:win
 ```
 
 The installer will be created in the `dist-electron/` folder.
+<img width="1067" height="1025" alt="image" src="https://github.com/user-attachments/assets/1589d451-016e-4477-a135-54aaf0df702c" />
 
 ---
 
